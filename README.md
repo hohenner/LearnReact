@@ -1,6 +1,6 @@
 # LearnReact
 
-sample repo to learn React working through [this O'Reilly course](https://learning.oreilly.com/videos/react-the/9781801812603/)
+sample repo to learn React working through [this O'Reilly course](https://learning.oreilly.com/videos/react-the/9781801812603/), [git repo](https://github.com/PacktPublishing/React---The-Complete-Guide-includes-Hooks-React-Router-and-Redux-Second-Edition)
 
 ## Setup
 
