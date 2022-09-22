@@ -1,6 +1,6 @@
 # LearnReact
 
-sample repo to learn React
+sample repo to learn React working through [this O'Reilly course](https://learning.oreilly.com/videos/react-the/9781801812603/)
 
 ## Setup
 
