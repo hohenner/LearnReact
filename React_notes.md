@@ -14,3 +14,17 @@ recommended to use [create-react-app](https://github.com/facebook/create-react-a
 cd my-app
 npm start
 ```
+
+## JSX
+
+JSX = embedded HTML in javascript code:
+
+```
+function App() {
+  return (
+    <div>
+      <h2>Let's get started!</h2>
+    </div>
+  );
+}
+```
